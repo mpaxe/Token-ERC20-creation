@@ -1,7 +1,7 @@
 pragma solidity ^0.4.24;
 
 // ----------------------------------------------------------------------------
-// 'SevillaGuifiCoin' 'Example Fixed Supply Token' token contract
+// 'SevillaGuifiToken' 'Example Fixed Supply Token' token contract
 //
 // Deployed to : 0x9860ff7bD621141AbD481d31292392305bcc5689
 // Symbol      : SgC
